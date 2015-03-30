@@ -1,4 +1,4 @@
-# go-hypem
+# go-hypem [![GoDoc](https://godoc.org/github.com/9uuso/go-hypem?status.svg)](https://godoc.org/github.com/9uuso/go-hypem)
 Library for converting HypeMachine.com's mediaid's into streamable links.
 
 ## Installation
